@@ -1,2 +1,2 @@
 # new33
-# the "new" my program is "BAT file"
+# the "new" my program is "hta-html file"
